@@ -15,9 +15,6 @@
 #include <windows.h>
 
 
-
-// Не используем и не подключаем using namespace std пространства имен для безопасности))
-
 using std::cout;
 using std::cin;
 using std::endl;
