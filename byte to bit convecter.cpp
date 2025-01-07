@@ -19,7 +19,7 @@ using std::cout;
 using std::cin;
 using std::endl;
 
-// Cоздаем функцию для ввода данных
+
 
 void ByteToBit() {
 
