@@ -30,6 +30,8 @@ void ByteToBit() {
 
 	// 1 байт = 8 бит
 
+	// тут переменная
+
 	int res = n_byte * n_bit;
 	Sleep(1000);
 	cout << "Результат: " << res << " бит " << endl;
