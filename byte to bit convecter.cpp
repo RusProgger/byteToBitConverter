@@ -44,7 +44,7 @@ int main() {
 	// локализация 
 	setlocale(LC_ALL, "Russian");
 
-	
+	// вызов функции 
 	ByteToBit();
 
 	system("pause");
