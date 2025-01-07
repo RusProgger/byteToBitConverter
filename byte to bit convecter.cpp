@@ -30,7 +30,7 @@ void ByteToBit() {
 
 	// 1 байт = 8 бит
 
-	// тут переменная
+	// тут переменная n_byte * n_bit;
 
 	int res = n_byte * n_bit;
 	Sleep(1000);
