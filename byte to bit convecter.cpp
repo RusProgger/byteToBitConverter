@@ -41,6 +41,7 @@ void ByteToBit() {
 
 int main() {
 
+	// локализация 
 	setlocale(LC_ALL, "Russian");
 
 	
