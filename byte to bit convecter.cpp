@@ -33,7 +33,7 @@ void ByteToBit() {
 	// тут переменная n_byte * n_bit;
 
 	int res = n_byte * n_bit;
-	Sleep(1000);
+	Sleep(800);
 	cout << "Результат: " << res << " бит " << endl;
 
 }
