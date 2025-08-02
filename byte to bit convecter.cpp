@@ -47,7 +47,10 @@ int main() {
 	// вызов функции 
 	ByteToBit();
 
-	system("pause");
+	// system("pause");
+
+	std::cin.get();
 
 	return EXIT_SUCCESS;
 }
+
